@@ -29,6 +29,8 @@ The client never talks to S3 or Lambda directly. Uploads go through a short-live
 
 ![Architecture-Diagram](./architecture-diagram.png)
 
+You Can vies a illustrations Video of my project from here : https://drive.google.com/file/d/1RYKz1t8S-T9tCU546gymmGDHmKCi-jUO/view?usp=sharing
+
 # How It Works
 
 **Upload path**
